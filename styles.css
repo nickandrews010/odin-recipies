@@ -4,8 +4,26 @@
 
 a {
     font-size: 40px;
+    display: block;
+    padding: 15px;
+    color: white;
+    background-color: rgb(201, 38, 241);
+    width: 1000px;
+    margin: 20px auto;
+    border: 2px solid white;
+    text-decoration: none;
 }
 
 h1 {
     font-size: 80px;
+    color:rgb(201, 38, 241);
+}
+
+.content {
+    border-color: white;
+    border: 10px;
+    background-color: black;
+    padding: 100px;
+    margin: 10px;
+    height: 100%;
 }
